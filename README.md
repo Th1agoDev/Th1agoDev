@@ -1,7 +1,7 @@
 ### Thiago Lima 👾
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lima-034b39245/)
+[![linkedin](https://www.linkedin.com/in/thiago-lima-bezerra-9788062b5/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago1limabezerra@gmail.com)
 
  ### Tecnologias 💻
